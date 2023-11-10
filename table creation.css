@@ -1,0 +1,38 @@
+body{
+  font-family: verdana;
+}
+
+table,th,td {
+  padding: 15px 8px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td{
+  border: 1px;
+  border-bottom: 1px solid black;
+}
+
+th{
+  border:0px;
+  background-color: rgb(119, 119, 186);
+  color: white;
+}
+
+button{
+  background-color: #46a8b1;
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: none;
+  transition:2s;
+}
+
+button:hover{
+  background-color: aqua;
+}
+
+
+
+
+
